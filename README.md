@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fuviaf
-- 🌱 I’m currently learning Phyton, JavaScript and SQL.
+- 🌱 I’m currently learning JavaScript and SQL.
 - 📫 How to reach me : fuvia.fernandes@gmail.com
 
