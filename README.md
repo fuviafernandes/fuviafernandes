@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @fuviaf
-- 🌱 I’m currently learning JavaScript and Front End.
+- 👋 Hi, I’m @fuviaf, I`m front end developer 
 - 📫 How to reach me : fuvia.fernandes@gmail.com
 
