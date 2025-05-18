@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Fúvia, I'm a fullstack developer and ux ui design
+- Technical Writer
 - 📫 How to reach me : fuvia.fernandes@gmail.com
 
